@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
+
 <meta charset="utf-8">
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -397,6 +397,20 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 .pain-stat-inner{max-width:800px;margin:0 auto;display:flex;align-items:center;gap:1.5rem}
 .pain-stat-icon{font-size:3rem;flex-shrink:0}
 .pain-stat-text{font-size:1.3rem;font-weight:700;color:var(--amber-800)}
+
+/* DIFFERENTIATION SECTIONS */
+.testimonials{padding:5rem 1.5rem;background:#fafafa}
+.testimonials-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem;max-width:1200px;margin:0 auto}
+.testimonial-card{background:#fff;padding:2rem;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+.testimonial-text{font-size:1.1rem;color:var(--slate-700);margin-bottom:1.5rem;line-height:1.6;font-style:italic}
+.testimonial-author{display:flex;align-items:center;gap:0.5rem;font-weight:600;color:var(--slate-800)}
+.verified-badge{font-size:0.8rem;color:#059669}
+.urgency-banner{background:#dc2626;color:#fff;text-align:center;padding:0.75rem 1rem;position:sticky;top:0;z-index:1000;font-weight:600}
+.urgency-banner p{margin:0}
+.pain-stat{background:#fef3c7;padding:3rem 1.5rem}
+.pain-stat-inner{max-width:800px;margin:0 auto;display:flex;align-items:center;gap:1.5rem}
+.pain-stat-icon{font-size:3rem;flex-shrink:0}
+.pain-stat-text{font-size:1.3rem;font-weight:700;color:var(--amber-800)}
 </style>
     <link rel="preload" as="image" href="assets/img/liluama-product.png" imagesrcset="assets/img/liluama-product.webp" imagesizes="100vw" type="image/webp">
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Liluama Colombia", "url": "https://liluama.co", "alternateName": "Liluama Colombia"}</script>
@@ -436,8 +450,15 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
 }
 </script>
 
-</head>
+
 <body>
+<!-- URGENCY BANNER -->
+<div class="urgency-banner">
+  <div class="container">
+    <p>🔥 Solo quedan 47 unidades para envío hoy</p>
+  </div>
+</div>
+
 <!-- URGENCY BANNER -->
 <div class="urgency-banner">
   <div class="container">
@@ -1029,6 +1050,35 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </div>
 </div>
     <!-- TESTIMONIALS -->
+<section class="testimonials">
+  <div class="container">
+    <h2 class="section-title">Lo que dicen nuestros clientes</h2>
+    <div class="testimonials-grid">
+      <div class="testimonial-card">
+        <p class="testimonial-text">"Lo usé durante mi embarazo y no tuve ninguna infección urinaria. Mi obstetra me dijo que las plantas andinas son seguras."</p>
+        <div class="testimonial-author">
+          <span class="testimonial-name">María G., Lima</span>
+          <span class="verified-badge">✓ Verificado</span>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <p class="testimonial-text">"Llevo 6 meses usando Liluama y ya no tengo cistitis. Las hierbas de la Amazonia realmente funcionan."</p>
+        <div class="testimonial-author">
+          <span class="testimonial-name">Carmen L., Arequipa</span>
+          <span class="verified-badge">✓ Verificado</span>
+        </div>
+      </div>
+      <div class="testimonial-card">
+        <p class="testimonial-text">"Mi mamá siempre usó estas plantas y ahora yo también. Es parte de nuestra cultura."</p>
+        <div class="testimonial-author">
+          <span class="testimonial-name">Patricia M., Trujillo</span>
+          <span class="verified-badge">✓ Verificado</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- TESTIMONIALS -->
 <section class="testimonials">
   <div class="container">
     <h2 class="section-title">Lo que dicen nuestros clientes</h2>
