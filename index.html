@@ -681,7 +681,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           playsinline
           muted
           loop
-          preload="metadata"
+          preload="none"
           width="180"
           height="320"
           style="border-radius:12px;max-width:100%;background:#000;cursor:pointer"
@@ -698,7 +698,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           playsinline
           muted
           loop
-          preload="metadata"
+          preload="none"
           width="180"
           height="320"
           style="border-radius:12px;max-width:100%;background:#000;cursor:pointer"
@@ -776,6 +776,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         entries.forEach(function(e){
           var v=e.target;
           if(e.isIntersecting&&e.intersectionRatio>=0.6){
+            if(v.preload==='none')v.preload='auto';
             v.play().catch(function(){});
           }else{
             v.pause();
@@ -828,6 +829,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
     </script>
   <!-- hilart-shorts-video-embed -->
 
+      
       
       
       
