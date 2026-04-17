@@ -560,13 +560,25 @@
   </url>
   <url>
     <loc>https://liluama.co/ingredientes/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://liluama.co/ingredientes/arandano-rojo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/ingredientes/boldo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/ingredientes/chancapiedra/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -579,6 +591,12 @@
   <url>
     <loc>https://liluama.co/ingredientes/d-manosa/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/ingredientes/diente-de-leon/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -715,6 +733,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/calculos-renales-y-agua-dura-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/calculos-renales-y-cafe-colombiano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/calculos-renales/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -733,8 +763,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/cistitis-luna-de-miel/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/cistitis-recurrente-antibioticos-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/cistitis-recurrente/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/cistitis-y-clima-tropical-costa/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -787,6 +835,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/edema-y-calor-barranquilla/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/edema-y-retencion-liquidos-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/enfermedad-renal-cronica/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -829,6 +889,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/incontinencia-urinaria-postparto-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/infeccion-urinaria-embarazo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -865,6 +931,24 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/infeccion-urinaria-y-clima-caliente-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/infeccion-urinaria-y-menopausia-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/infeccion-urinaria-y-piscinas-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/infeccion-urinaria/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -873,6 +957,18 @@
   <url>
     <loc>https://liluama.co/condiciones/insuficiencia-renal-etapa-2/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/itu-y-clima-tropical-colombiano/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/itu-y-menopausia-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -909,6 +1005,12 @@
   <url>
     <loc>https://liluama.co/condiciones/nefropatia-diabetica/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/nefropatia-por-analgesicos/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -955,13 +1057,55 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/proteinuria-causas-tratamiento/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/retencion-urinaria/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/rinones-y-antiinflamatorios/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/rinones-y-bebidas-azucaradas-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/rinones-y-bebidas-energeticas-co/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/rinones-y-diabetes-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/rinones-y-embarazo-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/rinones-y-sobrepeso-colombia/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/rinones-y-suplementos-gym-co/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -975,6 +1119,12 @@
   <url>
     <loc>https://liluama.co/condiciones/riñones-limpieza/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/riñones-y-aguapanela/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1033,8 +1183,26 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/ingrediente/boldo/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/ingrediente/chancapiedra/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/ingrediente/cola-de-caballo/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/ingrediente/diente-de-leon/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1043,23 +1211,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://liluama.co/ingrediente/chancapiedra/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/ingrediente/boldo/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/ingrediente/diente-de-leon/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
