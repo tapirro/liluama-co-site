@@ -883,6 +883,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/acidosis-tubular-renal/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/albuminuria/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/andropausia/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -891,6 +903,12 @@
   <url>
     <loc>https://liluama.co/condiciones/ardor-urinario-femenino/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/arenilla-en-los-rinones/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1003,8 +1021,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/creatinina-alta/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/diabetes-y-rinones/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/disuria/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1023,6 +1053,12 @@
   <url>
     <loc>https://liluama.co/condiciones/dolor-lumbar-renal/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/dolor-pelvico-cronico/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1087,6 +1123,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/hematuria/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/hidronefrosis/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
@@ -1125,6 +1167,12 @@
   <url>
     <loc>https://liluama.co/condiciones/incontinencia-urinaria-postparto-colombia/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/infeccion-renal/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1237,6 +1285,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/litiasis-renal/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/litiasis-urinaria/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1257,6 +1311,12 @@
   <url>
     <loc>https://liluama.co/condiciones/nefritis-intersticial/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/nefritis-lupica/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1339,6 +1399,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/prolapso-vesical/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/proteinuria-causas-tratamiento/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
@@ -1346,6 +1412,12 @@
   </url>
   <url>
     <loc>https://liluama.co/condiciones/proteinuria/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/quistes-renales/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1411,6 +1483,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/riñon-poliquistico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/riñones-limpieza/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1441,6 +1519,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.co/condiciones/ureterocele/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.co/condiciones/uretritis-femenina/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1455,6 +1539,12 @@
   <url>
     <loc>https://liluama.co/condiciones/uretritis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.co/condiciones/uropatia-obstructiva/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1475,95 +1565,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/dolor-pelvico-cronico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/disuria/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/hematuria/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/quistes-renales/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/infeccion-renal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/prolapso-vesical/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/uropatia-obstructiva/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/litiasis-renal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/acidosis-tubular-renal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/nefritis-lupica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/riñon-poliquistico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/ureterocele/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/arenilla-en-los-rinones/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/creatinina-alta/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.co/condiciones/albuminuria/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
