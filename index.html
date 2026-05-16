@@ -589,6 +589,10 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
   opacity: 0.85;
   font-weight: 400;
 }
+
+.privacy-consent { display:flex; align-items:flex-start; gap:6px; margin:8px 0 12px; font-size:.78rem; color:#666; cursor:pointer; }
+.privacy-consent input { margin-top:2px; flex-shrink:0; }
+.privacy-consent a { color:#2563eb; }
 </style>
     <link rel="preload" as="image" href="assets/img/liluama-hero.png" imagesrcset="assets/img/liluama-product.webp" imagesizes="100vw" type="image/webp">
   <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Liluama Colombia", "url": "https://liluama.co", "alternateName": "Liluama Colombia"}</script>
@@ -1517,6 +1521,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
           <span class="phone-prefix">+57</span>
           <input type="tel" name="phone" placeholder="Numero de telefono" required pattern="[0-9]{7,10}" autocomplete="tel">
         </div>
+        <label class="privacy-consent"><input type="checkbox" name="consent" required><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
         <button type="submit" class="submit-btn">Ordenar Liluama Ahora</button>
         <p class="form-note">Envío gratis &middot; Pago contra entrega &middot; Sin riesgo</p>
       </form>
@@ -1941,6 +1946,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
         <span class="phone-prefix">+57</span>
         <input type="tel" name="phone" placeholder="Numero de telefono" required pattern="[0-9]{7,10}" autocomplete="tel">
       </div>
+      <label class="privacy-consent"><input type="checkbox" name="consent" required><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
       <button type="submit" class="submit-btn">Ordenar con Descuento</button>
       <p class="form-note">Envío gratis &middot; Pago contra entrega &middot; Sin riesgo</p>
     </form>
@@ -1963,6 +1969,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;color:var(--slate
       style="width:100%;padding:10px;margin-bottom:8px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
     <input type="text" name="city" placeholder="Ciudad"
       style="width:100%;padding:10px;margin-bottom:12px;border:1px solid #ddd;border-radius:6px;font-size:.95rem;box-sizing:border-box">
+    <label style="display:flex;align-items:flex-start;gap:6px;margin:8px 0 12px;font-size:.78rem;color:#666;cursor:pointer"><input type="checkbox" name="consent" required style="margin-top:2px;flex-shrink:0"><span>Acepto el tratamiento de mis datos según la <a href="/privacidad" style="color:#2563eb">política de privacidad</a></span></label>
     <button type="submit"
       style="width:100%;padding:12px;background:#1a5632;color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:bold;cursor:pointer">
       Solicitar Información →
